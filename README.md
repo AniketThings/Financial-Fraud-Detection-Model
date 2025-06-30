@@ -4,6 +4,9 @@ This project demonstrates a machine learning approach to detect financial fraud 
 
 ---
 
+Here is the Direct link to the dashborad
+https://dynamic-platypus-cca973.netlify.app/
+
 ## Dataset
 
 The dataset used for this project is the **PaySim1** dataset from Kaggle:
